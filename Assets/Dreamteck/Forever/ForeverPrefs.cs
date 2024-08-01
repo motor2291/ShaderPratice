@@ -8,6 +8,7 @@ namespace Dreamteck.Forever
 {
     public static class ForeverPrefs
     {
+        //Test
         public static LevelSegment.Type newSegmentType = LevelSegment.Type.Extruded;
 
         public static bool extrudeApplyScale = false;
